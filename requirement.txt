@@ -1,0 +1,4 @@
+colorama
+requests
+mnemonic
+bip32utils
